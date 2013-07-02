@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Example", "Example\Example.vcxproj", "{2D9DC5D5-78EE-47F2-AD6F-D34530D242C6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{6BB3D70B-814B-474B-8265-7A9A9CEA460B} = {6BB3D70B-814B-474B-8265-7A9A9CEA460B}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookTools", "HookTools\HookTools.vcxproj", "{6BB3D70B-814B-474B-8265-7A9A9CEA460B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D9DC5D5-78EE-47F2-AD6F-D34530D242C6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2D9DC5D5-78EE-47F2-AD6F-D34530D242C6}.Debug|Win32.Build.0 = Debug|Win32
+		{2D9DC5D5-78EE-47F2-AD6F-D34530D242C6}.Release|Win32.ActiveCfg = Release|Win32
+		{2D9DC5D5-78EE-47F2-AD6F-D34530D242C6}.Release|Win32.Build.0 = Release|Win32
+		{6BB3D70B-814B-474B-8265-7A9A9CEA460B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6BB3D70B-814B-474B-8265-7A9A9CEA460B}.Debug|Win32.Build.0 = Debug|Win32
+		{6BB3D70B-814B-474B-8265-7A9A9CEA460B}.Release|Win32.ActiveCfg = Release|Win32
+		{6BB3D70B-814B-474B-8265-7A9A9CEA460B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
