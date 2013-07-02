@@ -9,7 +9,7 @@ HookTools is a C++ library to aid in hooking function calls on Microsoft Windows
 How do I use it?
 ----------------
 
-#include the header, and see the example/source for usage.
+\#include the header, and see the example/source for usage.
 
 Issues
 ------
