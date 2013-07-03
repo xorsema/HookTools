@@ -72,9 +72,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <None Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="IATHook.h" />
     <ClInclude Include="JMPHook.h" />
     <ClInclude Include="HookTools.h" />
